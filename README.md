@@ -9,9 +9,6 @@ Faça uma lista de itens que vc precisa levar em uma viagem e apague o que não 
 | :rocket: URL         | [https://url-deploy.com.br](https://matheusporezeli.github.io/Mochila-de-viagem/)
 | :fire: Desafio     | https://cursos.alura.com.br/course/javascript-web-armazenando-dados-navegador
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
-
 ## Detalhes do projeto
 
 Este projeto foi criado para interagir com o LocalStorage do navegador, criar objetos no JavaScript, registrar dados no LocalStorage para que a página web armazene os dados e entender como o comportamento do LocalStorage.
